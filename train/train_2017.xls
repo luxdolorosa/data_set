@@ -1,0 +1,216 @@
+<table class="tb03" border="1" cellpadding="1" cellspacing="1">
+							<caption>검색결과</caption>	
+<colgroup>    
+	    						<col width = "80px"/>		   
+	    						<col width = "90px"/>
+	    						<col width = "160px"/>
+	    						<col width = "60px"/>
+	    						<col width = "80px"/>
+ 		   		    			   
+	     						<col span='8' width = "100px"/>   
+		 					</colgroup>
+							<thead>
+		      					<tr bgcolor="5B9BD5">
+		      						<th class="first" colspan="5" rowspan="2">구분</th>
+<th scope="col" colspan="8">2017</th>	
+</tr>
+<tr bgcolor="5B9BD5">
+<th scope="col" colspan="8">요일별평균</th>							
+</tr>
+<tr bgcolor="5B9BD5">
+									<th class="first" colspan="1">호선명</th>
+									<th scope="col" colspan="1">역명</th>
+									<th scope="col" colspan="1">행정구역</th>
+									<th scope="col" colspan="1">월</th>
+									<th scope="col" colspan="1">승하차</th>	
+<th scope="col" colspan="1">월요일</th>							
+<th scope="col" colspan="1">화요일</th>							
+<th scope="col" colspan="1">수요일</th>							
+<th scope="col" colspan="1">목요일</th>							
+<th scope="col" colspan="1">금요일</th>							
+<th scope="col" colspan="1">토요일</th>							
+<th scope="col" colspan="1">일요일</th>							
+<th scope="col" colspan="1">모든요일</th>							
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>1월</td>
+<td>총승하차</td>
+<td>241,547</td>
+<td>251,463</td>
+<td>248,088</td>
+<td>221,059</td>
+<td>157,976</td>
+<td>94,811</td>
+<td>213,687</td>
+<td class="last">202,083</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>2월</td>
+<td>총승하차</td>
+<td>249,424</td>
+<td>248,932</td>
+<td>249,610</td>
+<td>265,965</td>
+<td>199,922</td>
+<td>114,066</td>
+<td>241,667</td>
+<td class="last">224,226</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>3월</td>
+<td>총승하차</td>
+<td>225,552</td>
+<td>205,502</td>
+<td>224,673</td>
+<td>247,270</td>
+<td>196,728</td>
+<td>112,857</td>
+<td>221,095</td>
+<td class="last">206,844</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>4월</td>
+<td>총승하차</td>
+<td>220,180</td>
+<td>224,021</td>
+<td>225,081</td>
+<td>243,236</td>
+<td>184,352</td>
+<td>109,321</td>
+<td>215,358</td>
+<td class="last">199,329</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>5월</td>
+<td>총승하차</td>
+<td>203,007</td>
+<td>203,885</td>
+<td>219,069</td>
+<td>213,423</td>
+<td>177,524</td>
+<td>109,885</td>
+<td>203,547</td>
+<td class="last">191,348</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>6월</td>
+<td>총승하차</td>
+<td>194,728</td>
+<td>223,475</td>
+<td>223,483</td>
+<td>238,811</td>
+<td>181,155</td>
+<td>104,944</td>
+<td>216,680</td>
+<td class="last">199,847</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>7월</td>
+<td>총승하차</td>
+<td>247,985</td>
+<td>252,365</td>
+<td>250,127</td>
+<td>261,288</td>
+<td>177,068</td>
+<td>102,634</td>
+<td>230,855</td>
+<td class="last">212,898</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>8월</td>
+<td>총승하차</td>
+<td>207,312</td>
+<td>231,763</td>
+<td>229,666</td>
+<td>250,274</td>
+<td>177,072</td>
+<td>103,627</td>
+<td>222,674</td>
+<td class="last">205,106</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>9월</td>
+<td>총승하차</td>
+<td>218,079</td>
+<td>221,854</td>
+<td>223,590</td>
+<td>242,585</td>
+<td>183,405</td>
+<td>108,144</td>
+<td>213,487</td>
+<td class="last">202,352</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>10월</td>
+<td>총승하차</td>
+<td>182,627</td>
+<td>172,084</td>
+<td>184,534</td>
+<td>207,602</td>
+<td>169,535</td>
+<td>105,858</td>
+<td>174,300</td>
+<td class="last">169,321</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>11월</td>
+<td>총승하차</td>
+<td>215,521</td>
+<td>218,511</td>
+<td>220,250</td>
+<td>241,915</td>
+<td>187,164</td>
+<td>110,961</td>
+<td>210,822</td>
+<td class="last">201,978</td>
+</tr>
+<tr>
+									<td class="l">2호선</td>															
+<td>강남</td>							
+<td>___역삼2동(서울강남)</td>
+<td>12월</td>
+<td>총승하차</td>
+<td>228,168</td>
+<td>234,769</td>
+<td>240,599</td>
+<td>257,387</td>
+<td>192,202</td>
+<td>113,465</td>
+<td>197,216</td>
+<td class="last">207,041</td>
+</tr>
+</tbody>
+						</table>
